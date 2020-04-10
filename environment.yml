@@ -1,4 +1,4 @@
-name: ldsc
+name: ldscore
 channels:
 - bioconda
 dependencies:
